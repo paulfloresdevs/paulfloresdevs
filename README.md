@@ -9,6 +9,8 @@
 * 🔥 I really love the thrill of making what I want possible!
 
 * 💼 Backend developer at softelligent-business
+
+  
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mysql,mongodb,figma&theme=dark)](https://skillicons.dev)
 <!--
 **Paul10FC/Paul10FC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
