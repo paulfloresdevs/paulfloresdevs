@@ -1,4 +1,4 @@
-![Banner para Linkedin Recursos Humanos Mujer Minimalista Beige](https://github.com/Paul10FC/Paul10FC/assets/133995490/a203fffe-bba9-450e-894d-41678d7dd2e7)
+![Banner paulfloresdev](https://pbs.twimg.com/profile_banners/1441922361863794688/1732657860/600x200 "banner")
 
 ## About me.
 
