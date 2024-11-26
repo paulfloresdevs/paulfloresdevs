@@ -1,4 +1,4 @@
-![Banner paulfloresdev](https://pbs.twimg.com/profile_banners/1441922361863794688/1732657860/600x200 "banner")
+![Banner paulfloresdev](https://media.licdn.com/dms/image/v2/D4E16AQELgyTvPybMeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732650550454?e=1738195200&v=beta&t=ZQtk6nYqVMaFnNLbPendSZenD0j6lN_0oqkP15duRbg "banner")
 
 ## About me.
 
